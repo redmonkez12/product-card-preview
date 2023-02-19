@@ -75,6 +75,7 @@ h1 {
     font-size: 12px;
     line-height: 15px;
     letter-spacing: 5px;
+    text-transform: uppercase;
 }
 
 .card .description {
